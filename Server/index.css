@@ -1,0 +1,44 @@
+body {
+    background-image: url(Bilder/Hintergrund_Homepage.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+}
+
+.all {
+    color: white;
+    font-size: x-large;
+    width: 90vw;
+    background-color: rgba(24, 96, 92, 0.549);
+    display: flex;
+    justify-content: space-between;
+}
+
+
+a {color: white; text-decoration-line: none;}
+
+.blur {padding: 40px 0px 40px 0px;}
+
+.media img {width: 40px;}
+
+header {width: 330px;}
+
+header h1 {margin: 0; font-size: 70px;}
+
+.media a {display: flex; align-items: center; margin: 30px 0px 30px 0px;}
+
+.media p {padding: 0; margin: 0;}
+
+.media {padding: 20px 0px 0px 0px;}
+
+.links {padding:  20px 10px 20px 50px;}
+
+.rechts h4 {margin: 0; padding: 20px; border-top: solid white 4px;}
+.letzter {border-bottom: solid white 4px;}
+.rechts {
+    padding: 40px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
